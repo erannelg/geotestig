@@ -1,0 +1,31 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<ExtendedData></ExtendedData>
+  <Point><coordinates>10.47042726946998,63.41490604952506</coordinates></Point></Placemark>
+<Placemark id="1">
+<ExtendedData></ExtendedData>
+  <Point><coordinates>10.460167000002485,63.30556757517664</coordinates></Point></Placemark>
+<Placemark id="2">
+<ExtendedData></ExtendedData>
+  <Point><coordinates>10.36633772883522,63.33409462993268</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData></ExtendedData>
+  <Point><coordinates>10.328758728834913,63.348247812597435</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData></ExtendedData>
+  <Point><coordinates>10.341666542327403,63.363672860106135</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData></ExtendedData>
+  <Point><coordinates>10.334384271166641,63.377326192270345</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData></ExtendedData>
+  <Point><coordinates>10.371409813492022,63.38931261144825</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData></ExtendedData>
+  <Point><coordinates>10.446481728836204,63.41244119814962</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData></ExtendedData>
+  <Point><coordinates>10.414986542327341,63.393580220041656</coordinates></Point></Placemark>
+<Placemark id="9">
+<ExtendedData></ExtendedData>
+  <Point><coordinates>10.446582542328514,63.43064379880255</coordinates></Point></Placemark></Document></kml>
